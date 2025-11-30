@@ -5,7 +5,7 @@
 
 ## 快速开始
 1. 安装依赖：`pip install -r requirements.txt`
-2. 模型安装：通过https://huggingface.co/mouseland/cellpose-sam/tree/main这一链接下载cpsam模型到对应的models文件夹中
+2. 模型安装：通过 https://huggingface.co/mouseland/cellpose-sam/tree/main 这一链接下载cpsam模型到对应的models文件夹中
 3. 运行程序：`python rice_processing.py`
 
 ## 项目结构
@@ -18,3 +18,4 @@
 ## 技术栈
 
 Python, Cellpose, SAM, OpenCV, scikit-image
+
